@@ -19,6 +19,6 @@
   "homepage": "https://github.com/ashlinaronin/geomorph#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "socket.io": "^4.4.1"
+    "socket.io": "^4.6.1"
   }
 }
